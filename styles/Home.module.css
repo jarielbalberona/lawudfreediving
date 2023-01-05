@@ -195,7 +195,8 @@
   }
 
   .center {
-    padding: 8rem 0 6rem;
+    padding: 8rem;
+    margin: 1rem;
   }
 
   .center::before {
